@@ -69,7 +69,7 @@ while (opcionvalida == "si") {
 }
 
 console.log ("Autor: Percy Guerra")
-console.log("Fin de Desafio 1:")
+console.log("Fin de Desafio 2:")
 
 
 
